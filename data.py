@@ -1,2 +1,0 @@
-balance = 1000
-transactions = []
